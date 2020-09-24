@@ -2,7 +2,7 @@
 layout: page
 title: Appendix
 subtitle: This post contains all the graphs representing all the differences between EA top-prioritizers and non-prioritizers, 
-with a confidence level of 95%. For further context, read [this post](https://).
+with a confidence level of 95%. For further context, read [this post](https://forum.effectivealtruism.org/posts/F6gMCRwAzxNL4cwjv/correlations-between-cause-prioritization-and-the-big-five).
 ---
 
 Emotional stability differences between animal welfare prioritizers and non-prioritizers. T-statistic of 2.235, p-value of 0.026
