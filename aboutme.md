@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Passionate about public policy, evidenced-based decision-making, and improving autonomy and well-being for all sapient beings.
+Passionate about public policy, evidence-based decision-making, and improving autonomy and well-being for all humans.
 
 ### My story
 
